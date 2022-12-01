@@ -1,0 +1,22 @@
+.text-center {
+    text-align: center;
+}
+
+.text-small {
+    font-size: small;
+}
+
+.text-large {
+    font-size: large;
+}
+
+.text-larger {
+    font-size: larger;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+}
